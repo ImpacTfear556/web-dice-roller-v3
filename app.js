@@ -1,5 +1,4 @@
-const API_BASE = "https://YOURAPP.azurewebsites.net";
-
+const API_BASE = "https://node-js-on-azure-v4-h0dbcvd7gyb2b6fk.canadacentral-01.azurewebsites.net";
 const diceRow = document.getElementById("diceRow");
 const rollBtn = document.getElementById("rollBtn");
 const corsStatus = document.getElementById("corsStatus");
